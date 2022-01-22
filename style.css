@@ -1,0 +1,233 @@
+* {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    box-sizing: border-box;
+}
+
+main {
+    background-color: #f8f8f8ef;
+}
+
+.container {
+    width: 1300px;
+    margin: 0 auto;
+}
+
+.cabecalho {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 30px;
+}
+
+.cabecalho .coluna {
+
+}
+
+.cabecalho figure {
+
+}
+
+.cabecalho figure img {
+    width: 90px;
+
+}
+
+.formularioPesquisa {
+    display: flex;
+    height: 40px;
+}
+
+.formularioPesquisa input {
+    width: 500px;
+    font-size: 16px;
+    border: 1px solid #ccc;
+    padding: 0 10px;
+    border-radius: 5px 0 0 5px;
+}
+
+.formularioPesquisa button {
+    width: 60px;
+    border: 1px solid #ccc;
+    border-left: none;
+    border-radius: 0 5px 5px 0;
+}
+
+.formularioPesquisa button img {
+    width: 18px;
+}
+
+.imagemUsuario {
+
+}
+
+.cabecalho .imagemUsuario img {
+    width: 35px;
+    border-radius: 100%;
+}
+
+.destaqueCanal {
+    background-image: url('./img/destaque.png');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 300px;
+}
+
+.secaoCanal {
+    background-color: #fff;
+
+}
+
+.secaoCanal .container {
+
+}
+
+.detalheCanal {
+    display: flex;
+    align-items: center;
+    padding-top: 15px;
+    margin-bottom: 15px;
+
+}
+
+.detalheCanal figure {
+    margin-right: 20px;
+}
+
+.detalheCanal figure img {
+    border-radius: 100%;
+    width: 80px;
+}
+
+.detalheCanal .info {
+
+}
+
+.detalheCanal .info h1 {
+    font-size: 20px;
+    margin-bottom: 5px;
+}
+
+.detalheCanal .info p {
+    font-size: 15px;
+    
+}
+
+.menusNavegacaoCanal {
+
+}
+
+.menusNavegacaoCanal ul {
+    display: flex;
+    align-items: center;
+
+}
+
+.menusNavegacaoCanal ul li {
+
+}
+
+.menusNavegacaoCanal ul li  a {
+    color: #606060;
+    text-decoration: none;
+    padding: 1px 20px;
+    display: inline-block;
+    text-transform: uppercase;
+    font-size: 15px;
+}
+
+.menusNavegacaoCanal ul li  button {
+    background-color: transparent;
+    border: none;
+}
+
+.menusNavegacaoCanal ul li  button img {
+    width: 18px;
+}
+
+.containerVideosDestaque {
+    width: 1300px;
+    margin-top: 0 auto;
+    display: flex;
+}
+
+.containerVideosDestaque .coluna {
+
+}
+
+.containerVideosDestaque .coluna--esquerda {
+    width: 800px;
+}
+
+.containerVideosDestaque .coluna--direita {
+
+}
+
+.secaoVideosDestaque {
+
+}
+
+.secaoVideosDestaque h2 {
+
+}
+
+.secaoVideosDestaque .lista {
+
+}
+.secaoVideosDestaque .lista li {
+
+}
+
+.secaoVideosDestaque .lista li figure {
+
+}
+
+.secaoVideosDestaque .lista li figure img {
+
+}
+
+.secaoVideosDestaque .lista li div {
+
+}
+
+.secaoVideosDestaque .lista li div h3 {
+
+}
+
+.secaoVideosDestaque .lista li div span {
+
+}
+
+.secaoVideosDestaque .lista li div p {
+
+}
+
+.buttonAdicionarAFila {
+
+}
+
+.secaoAdicionarAFila .cabecalho {}
+.secaoAdicionarAFila .cabecalho h2 {}
+.secaoAdicionarAFila .cabecalho p {}
+.secaoAdicionarAFila .lista {}
+.secaoAdicionarAFila .lista li {}
+.secaoAdicionarAFila .lista li figure {}
+.secaoAdicionarAFila .lista li figure img {}
+.secaoAdicionarAFila .lista li div {}
+.secaoAdicionarAFila .lista li div h3 {}
+.secaoAdicionarAFila .lista li div span {}
+.secaoAdicionarAFila .lista li div p {}
+
+
+
+
+
+
+
+
+
+
+
+
