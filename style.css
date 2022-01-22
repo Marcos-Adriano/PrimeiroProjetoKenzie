@@ -162,7 +162,7 @@ main {
 }
 
 .containerVideosDestaque .coluna--direita {
-
+    width: 300px;
 }
 
 .secaoVideosDestaque {
@@ -170,14 +170,16 @@ main {
 }
 
 .secaoVideosDestaque h2 {
-
+    font-size: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
 }
 
 .secaoVideosDestaque .lista {
 
 }
 .secaoVideosDestaque .lista li {
-
+    display: flex;
 }
 
 .secaoVideosDestaque .lista li figure {
@@ -185,15 +187,15 @@ main {
 }
 
 .secaoVideosDestaque .lista li figure img {
-
+    width: 220px;
 }
 
 .secaoVideosDestaque .lista li div {
 
 }
 
-.secaoVideosDestaque .lista li div h3 {
-
+.secaoVideosDestaque__lista li div h3 {
+    font-size: 20px;
 }
 
 .secaoVideosDestaque .lista li div span {
@@ -208,17 +210,50 @@ main {
 
 }
 
-.secaoAdicionarAFila .cabecalho {}
-.secaoAdicionarAFila .cabecalho h2 {}
-.secaoAdicionarAFila .cabecalho p {}
-.secaoAdicionarAFila .lista {}
-.secaoAdicionarAFila .lista li {}
-.secaoAdicionarAFila .lista li figure {}
-.secaoAdicionarAFila .lista li figure img {}
-.secaoAdicionarAFila .lista li div {}
-.secaoAdicionarAFila .lista li div h3 {}
-.secaoAdicionarAFila .lista li div span {}
-.secaoAdicionarAFila .lista li div p {}
+.secaoAdicionarAFila .cabecalho {
+
+}
+
+.secaoAdicionarAFila .cabecalho h2 {
+
+}
+
+.secaoAdicionarAFila .cabecalho p {
+
+}
+
+.secaoAdicionarAFila .lista {
+
+}
+
+.secaoAdicionarAFila .lista li {
+
+}
+
+.secaoAdicionarAFila .lista li figure {
+
+}
+
+.secaoAdicionarAFila .lista li figure img {
+
+}
+
+.secaoAdicionarAFila .lista li div {
+
+}
+
+.secaoAdicionarAFila .lista li div h3 {
+
+}
+
+.secaoAdicionarAFila .lista li div span {
+
+}
+
+.secaoAdicionarAFila .lista li div p {
+
+}
+
 
 
 
